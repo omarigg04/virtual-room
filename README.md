@@ -1,6 +1,6 @@
 # Virtual World 3D
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/fc651891-c1fc-46fd-b890-b095345306e8" />
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/bdc482ed-d13c-4c8f-ba89-0435f45b6cc6" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/fc651891-c1fc-46fd-b890-b095345306e8" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/bdc482ed-d13c-4c8f-ba89-0435f45b6cc6" />
 
 Un mundo virtual interactivo construido con React Three Fiber, que permite explorar una habitación en primera persona con objetos 3D y texturas personalizadas.
 
